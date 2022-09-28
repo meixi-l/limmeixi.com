@@ -1,0 +1,8 @@
+:root {
+  --background-color-even: black;
+  --color-even: white;
+  --background-color-odd: white;
+  --color-odd: black;
+  --link-color: var(--color-odd);
+  --link-hover-color: darkgrey;
+}
